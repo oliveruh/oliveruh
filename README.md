@@ -69,7 +69,7 @@ Software Engineer with 4+ years of experience leading high-impact projects in fi
 
 ### 📬 **Let's Connect!** / **Vamos Conversar!**
 [![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhan-herlisson/)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Call-008080?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/[SEU_CALENDLY])
+[![Schedule Meeting](https://img.shields.io/badge/Schedule_Call-008080?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/herlisson-ruh/papo)
 
 
 # 👨‍💻 Ruhan Herlisson | Software Engineer
@@ -148,7 +148,7 @@ A passionate **Software Engineer** with over 4 years of experience in crafting s
 
 I'm always open to innovative projects, collaboration opportunities, and engaging technical discussions. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Schedule_Meeting-0A66C2?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/ruhanmonte)
+[![LinkedIn](https://img.shields.io/badge/Schedule_Meeting-0A66C2?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/herlisson-ruh/papo)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhanmonte.dev@gmail.com)
 
 **"Transforming complex challenges into elegant, secure solutions – one line of code at a time."**
