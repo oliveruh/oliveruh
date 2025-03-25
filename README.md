@@ -114,8 +114,8 @@ A passionate **Software Engineer** with over 4 years of experience in crafting s
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveruh&theme=radical&show_icons=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveruh&theme=radical&layout=compact" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliveruh&theme=radical&show_icons=true" height="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveruh&theme=radical&layout=compact" height="45%">
 </p>
 
 ## 🛠 Technology Arsenal
