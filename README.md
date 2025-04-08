@@ -2,7 +2,7 @@
 
 <div align="left">
   <p><b>Hello!</b> : ] </p>
-  <p>I'm a <b>software engineer</b> specialized in <b><i>web developing</i></b> technologies, with 4+ years of experience designing and delivering high-impact solutions in fintech, insurance, and e-commerce</p> 
+  <p>I'm a <b>software engineer</b> specialized in <b><i>web development</i></b> technologies, with 4+ years of experience designing and delivering high-impact solutions in fintech, insurance, and e-commerce</p> 
   <p>Passionate about secure, scalable architecture and pragmatic problem-solving, with a focus on optimizing security and achieving business value through technical excellence.</p>
   <p>I'm currently working at <a href="https://www.bradescoseguros.com.br">Bradesco Seguros</a>, Brazil's largest insurance company.</p>
   <p>If you're interested in collaborating on an exciting project, feel free to reach out.</p>
@@ -17,13 +17,13 @@
   </ul>
   </br>
   <p align="center">
-    <a href="https://www.linkedin.com/in/ruhan-herlisson/" target="_blank">
+    <a href="https://www.linkedin.com/in/ruhan-herlisson/">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:ruhanmonte.dev@gmail.com" target="_blank">
+    <a href="mailto:ruhanmonte.dev@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <a href="https://calendly.com/herlisson-ruh/papo" target="_blank">
+    <a href="https://calendly.com/herlisson-ruh/papo">
       <img src="https://img.shields.io/badge/-Schedule_Call-4285F4?style=for-the-badge&logo=GoogleMeet&logoColor=white">
     </a>
   </p>
