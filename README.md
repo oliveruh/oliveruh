@@ -15,7 +15,7 @@
     <li><b>Infrastructure & DevOps:</b> CI/CD (Jenkins, GitHub Actions), Docker, SQL optimization, architecture modernization</li>
     <li><b>Full-Stack:</b> Angular, React, Vue.js, TypeScript, HTML5/JavaScript, and jQuery</li>
   </ul>
-</br>
+  </br>
   <p align="center">
     <a href="https://www.linkedin.com/in/ruhan-herlisson/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -36,7 +36,9 @@ Project name | Main language | Description
 [New Laws Observatory](https://github.com/oliverbot/ProjetosLeisPernambuco) | Python | Monitors the bills created by legislators in Pernambuco, using Artificial Intelligence to make the content of the laws accessible to the general public.
 [JumpBack](https://github.com/oliverbot/wsj_birthdate) | HTML/JS | Find out which issue of Shonen Jump magazine was released closest to your birth date and explore what manga were being published back then.
 
-### ⚙ Technical Arsenal
+</br>
+
+### ⚙ Technical Tools
 
 #### **Backend Core**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
