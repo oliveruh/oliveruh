@@ -15,7 +15,18 @@
     <li><b>Infrastructure & DevOps:</b> CI/CD (Jenkins, GitHub Actions), Docker, SQL optimization, architecture modernization</li>
     <li><b>Full-Stack:</b> Angular, React, Vue.js, TypeScript, HTML5/JavaScript, and jQuery</li>
   </ul>
-  
+</br>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ruhan-herlisson/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:ruhanmonte.dev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://calendly.com/herlisson-ruh/papo" target="_blank">
+      <img src="https://img.shields.io/badge/-Schedule_Call-4285F4?style=for-the-badge&logo=GoogleMeet&logoColor=white">
+    </a>
+  </p>
 </div>
 
 ### 🌍 Some of my projects
