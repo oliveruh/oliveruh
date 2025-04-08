@@ -22,7 +22,8 @@
 
 Project name | Main language | Description
 -------------|---------------|-----------
-[Observatório de Projetos de Lei](https://github.com/oliverbot/ProjetosLeisPernambuco) | Python | Monitors the bills created by legislators in Pernambuco, using Artificial Intelligence to make the content of the laws accessible to the general public.
+[New Laws Observatory](https://github.com/oliverbot/ProjetosLeisPernambuco) | Python | Monitors the bills created by legislators in Pernambuco, using Artificial Intelligence to make the content of the laws accessible to the general public.
+[JumpBack](https://github.com/oliverbot/wsj_birthdate) | HTML/JS | Find out which issue of Shonen Jump magazine was released closest to your birth date and explore what manga were being published back then.
 
 ### ⚙ Technical Arsenal
 
