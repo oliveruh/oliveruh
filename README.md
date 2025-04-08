@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5D8AA8&center=true&vCenter=true&width=435&lines=Ruhan+Herlisson;Java+%7C+Spring+%7C+Cloud+Engineer" alt="Typing SVG" />
+  Software Engineer
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 🔧 Technical Arsenal
+### ⚙ Technical Arsenal
 
 #### **Backend Core**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
