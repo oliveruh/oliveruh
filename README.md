@@ -23,7 +23,7 @@
     <a href="mailto:ruhanmonte.dev@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <a href="https://calendly.com/herlisson-ruh/papo">
+    <a href="https://calendar.app.google/99yey4sNeFUYR7ii8">
       <img src="https://img.shields.io/badge/-Schedule_Call-4285F4?style=for-the-badge&logo=GoogleMeet&logoColor=white">
     </a>
   </p>
