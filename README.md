@@ -14,8 +14,11 @@
 <p>Let's build something amazing together! 🚀</p>
 
 <p align="left">
+<a href="https://drive.google.com/file/d/1hqq0lbKo-R_g4-z7Ay5Me5LFb2MyP_yo/view?usp=sharing">
+<img src="https://img.shields.io/badge/-CV-989da2?style=for-the-badge&logo=googledocs&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/ruhan-herlisson/">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=indeed&logoColor=white">
 </a>
 <a href="mailto:ruhanmonte.dev@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
