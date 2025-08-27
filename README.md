@@ -26,7 +26,7 @@
 </p>
 </div>
 
-### ⚙️ My Tech Stack & Tools
+## ⚙️ Tools and technologies I've worked with
 <p align="center">
 <!-- Backend -->
 <a href="https://skillicons.dev">
